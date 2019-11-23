@@ -3,7 +3,7 @@ h1, h2, h3 {margin-top: 0;}
 ul, ol {margin: 0;}
 p {margin: 0;}
 html, body{
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Noto Sans TC', 'Source Sans Pro', sans-serif;
    font-size: 100%;
    background:#fff; 
 }
@@ -49,7 +49,7 @@ span.menu {
   color: #fff;
   text-decoration: none;
   display: block;
-   font-family: 'Droid Serif', serif;
+   font-family: 'Noto Sans TC', 'Droid Serif', serif;
 }
 .top-nav ul li a:hover {
 	color:#2ad2c9;
@@ -62,7 +62,7 @@ span.menu {
   font-weight: 400;
   color: #fff;
   text-decoration: none;
-    font-family: 'Droid Serif', serif;
+    font-family: 'Noto Sans TC', 'Droid Serif', serif;
 }
 .head-button a:hover{
 	color:#000;
@@ -239,7 +239,7 @@ fieldset#body {
     display:block;
     float:left;
     font-size:0.872em;
-    font-family: 'Droid Serif', serif;
+    font-family: 'Noto Sans TC', 'Droid Serif', serif;
 }
 #loginForm #body fieldset label{
     display:block;
@@ -260,11 +260,11 @@ fieldset#body {
     padding:6px;
 	font-size: 0.8125em;
     -webkit-apperance:none;
-    font-family: 'Droid Serif', serif;
+    font-family: 'Noto Sans TC', 'Droid Serif', serif;
 }
 /* Sign In Button */
 #loginForm #login {
-	font-family: 'Droid Serif', serif;
+	font-family: 'Noto Sans TC', 'Droid Serif', serif;
 	width: auto;
 	float: left;
 	background:#2ad2c9;
@@ -305,7 +305,7 @@ input:focus {
 /*--header end here--*/
 /*--banner start here--*/
 .banner {
-  background: url(../images/2.jpg)no-repeat;
+  background: url(../images/1.jpg)no-repeat;
   min-height: 730px;
   background-size: cover;
   position:relative;
@@ -325,7 +325,7 @@ input:focus {
   font-size: 1.5em;
   font-weight: 400;
   color: #fff;
-  font-family: 'Droid Serif', serif;
+  font-family: 'Noto Sans TC', 'Droid Serif', serif;
   margin: 0em 0em 0.15em 0em;
 }
 .bann-close p {
@@ -356,8 +356,8 @@ input:focus {
   font-weight: 600;
   color: #2ad2c9;
   text-align: center;
-  margin: 0em 0em 1.5em 0em;
-  font-family: 'Droid Serif', serif;
+  /*margin: 0em 0em 1.5em 0em;*/
+  font-family: 'Noto Sans TC', 'Droid Serif', serif;
 }
 .about-left p {
   font-size: 1em;
@@ -376,7 +376,7 @@ input:focus {
   font-size: 1.1em;
   font-weight: 400;
   text-align: center;
-  font-family: 'Droid Serif', serif;
+  font-family: 'Noto Sans TC', 'Droid Serif', serif;
 }
 .about-box {
   float: left;
@@ -393,7 +393,7 @@ input:focus {
   font-weight: 400;
   color: #2ad2c9;
   margin: 0em 0em 0.15em 0em;
-  font-family: 'Droid Serif', serif;
+  font-family: 'Noto Sans TC', 'Droid Serif', serif;
 }
 .about-text p {
   font-size: 1em;
@@ -476,7 +476,7 @@ input:focus {
   color: #000;
   margin: 0em 0em 1em 0em;
   text-align: center;
-  font-family: 'Droid Serif', serif;
+  font-family: 'Noto Sans TC', 'Droid Serif', serif;
 }
 .about-details {
   padding: 1em;
@@ -490,7 +490,7 @@ input:focus {
   font-weight: 400;
   color: #000;
   margin: 0em 0em 0.15em 0em;
-  font-family: 'Droid Serif', serif;
+  font-family: 'Noto Sans TC', 'Droid Serif', serif;
 }
 .about-details p {
   font-size: 1em;
@@ -541,7 +541,7 @@ input:focus {
   font-weight: 600;
   color: #2ad2c9;
   margin: 0em 0em 0.51em 0em;
-  font-family: 'Droid Serif', serif;
+  font-family: 'Noto Sans TC', 'Droid Serif', serif;
 }
 .clients-main h4 {
   font-size: 1.2em;
@@ -585,7 +585,7 @@ input:focus {
   color: #2ad2c9;
   margin: 0em 0em 1em 0em;
   text-align: center;
-  font-family: 'Droid Serif', serif;
+  font-family: 'Noto Sans TC', 'Droid Serif', serif;
 }
 .gallery-1{
 	padding:0em 0em 1.5em 0em;
@@ -608,7 +608,7 @@ input:focus {
   color: #2ad2c9;
   margin: 0em 0em 1em 0em;
   text-align: center;
-  font-family: 'Droid Serif', serif;
+  font-family: 'Noto Sans TC', 'Droid Serif', serif;
 }
 .contact-main p {
   font-size: 1em;
@@ -723,7 +723,7 @@ ul.ftr-icons {
   font-weight: 400;
   color: #fff;
   text-decoration:none;
-  font-family: 'Droid Serif', serif;
+  font-family: 'Noto Sans TC', 'Droid Serif', serif;
 }
 .footer-right ul li a:hover {
   color:#2ad2c9;
@@ -735,7 +735,7 @@ ul.ftr-icons {
   font-size: 1em;
   font-weight: 400;
   color: #fff;
-    font-family: 'Droid Serif', serif;
+    font-family: 'Noto Sans TC', 'Droid Serif', serif;
 }
 .footer-left  p a {
   color: #2ad2c9;
